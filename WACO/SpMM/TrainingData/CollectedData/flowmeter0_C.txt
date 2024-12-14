@@ -1,0 +1,74 @@
+NUMROW : 5 / NUMCOL : 9669 / NNZ : 5 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 2 32 i1 i0 j1 k1 k0 j0 0 0 0 0 i1 48 128 = 0.40608 ms
+Testing Candidate SuperSchedules... 1 2 128 i1 k1 i0 j1 k0 j0 0 0 0 1 i1 48 2 = 0.296086 ms
+Testing Candidate SuperSchedules... 16 2 2 k1 i1 k0 i0 j1 j0 1 0 0 1 i1 48 16 = 1.00052 ms
+Testing Candidate SuperSchedules... 32 16 2 i1 k1 i0 k0 j1 j0 0 0 0 1 i1 48 128 = 0.243543 ms
+Testing Candidate SuperSchedules... 16 16 2 k1 k0 i1 i0 j1 j0 1 0 0 1 i1 48 16 = 14.0304 ms
+Testing Candidate SuperSchedules... 4 1 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 8 = 0.384285 ms
+Testing Candidate SuperSchedules... 16 2 16 k1 i1 i0 k0 j1 j0 0 1 0 0 i1 48 4 = 1.1107 ms
+Testing Candidate SuperSchedules... 1 4 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 0.404565 ms
+Testing Candidate SuperSchedules... 8 2 4 k1 i1 i0 k0 j1 j0 1 1 0 0 i1 48 64 = 1.1226 ms
+Testing Candidate SuperSchedules... 4 2 4 i1 i0 k1 k0 j1 j0 1 1 0 0 i1 48 1 = 0.25431 ms
+Testing Candidate SuperSchedules... 4 1 2 i1 k1 i0 k0 j1 j0 1 1 0 1 i1 48 64 = 0.291764 ms
+Testing Candidate SuperSchedules... 16 2 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 0.213772 ms
+Testing Candidate SuperSchedules... 1 1 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 32 = 0.244419 ms
+Testing Candidate SuperSchedules... 4 16 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 1 = 0.337821 ms
+Testing Candidate SuperSchedules... 8 16 2 i1 k1 k0 i0 j1 j0 1 0 0 1 i1 48 32 = 0.331975 ms
+Testing Candidate SuperSchedules... 16 4 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 0.394699 ms
+Testing Candidate SuperSchedules... 32 1 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 0.381746 ms
+Testing Candidate SuperSchedules... 4 8 16 i1 j1 k1 i0 k0 j0 1 1 0 0 i1 48 32 = 0.352696 ms
+Testing Candidate SuperSchedules... 8 1 2 k1 i1 i0 k0 j1 j0 1 1 0 0 i1 48 128 = 1.66311 ms
+Testing Candidate SuperSchedules... 16 2 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 0.465548 ms
+Testing Candidate SuperSchedules... 4 1 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 0.410093 ms
+Testing Candidate SuperSchedules... 2 1 32 k1 i1 k0 i0 j1 j0 1 0 0 0 i1 48 32 = 1.63085 ms
+Testing Candidate SuperSchedules... 16 16 1 k1 k0 i1 i0 j1 j0 0 1 0 1 i1 48 16 = 21.2243 ms
+Testing Candidate SuperSchedules... 1 8 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 128 = 0.333946 ms
+Testing Candidate SuperSchedules... 16 1 64 i1 j1 i0 k1 k0 j0 1 1 0 1 i1 48 256 = 0.36799 ms
+Testing Candidate SuperSchedules... 32 16 32 k1 i1 j1 i0 k0 j0 0 1 0 0 i1 48 4 = 1.15295 ms
+Testing Candidate SuperSchedules... 2 16 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 0.367619 ms
+Testing Candidate SuperSchedules... 32 1 2 k1 i1 k0 i0 j1 j0 0 0 0 1 i1 48 128 = 1.65366 ms
+Testing Candidate SuperSchedules... 8 8 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 0.318462 ms
+Testing Candidate SuperSchedules... 4 32 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 2 = 0.34569 ms
+Testing Candidate SuperSchedules... 1 2 1 i1 i0 k1 k0 j1 j0 1 1 0 0 i1 48 64 = 0.486793 ms
+Testing Candidate SuperSchedules... 4 2 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 32 = 0.356778 ms
+Testing Candidate SuperSchedules... 1 1 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 32 = 0.349087 ms
+Testing Candidate SuperSchedules... 32 4 8 k1 k0 i1 j1 i0 j0 0 1 0 1 i1 48 4 = 5.30642 ms
+Testing Candidate SuperSchedules... 4 8 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 16 = 0.363387 ms
+Testing Candidate SuperSchedules... 32 1 128 k1 i1 k0 i0 j1 j0 0 1 0 1 i1 48 32 = 1.66001 ms
+Testing Candidate SuperSchedules... 4 16 128 k1 i1 k0 j1 i0 j0 1 0 0 1 i1 48 256 = 1.29628 ms
+Testing Candidate SuperSchedules... 16 8 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 0.386985 ms
+Testing Candidate SuperSchedules... 4 32 16 k1 i1 i0 j1 k0 j0 1 0 0 0 i1 48 2 = 1.33382 ms
+Testing Candidate SuperSchedules... 4 16 32 i1 k1 j1 k0 i0 j0 0 0 0 0 i1 48 1 = 0.426348 ms
+Testing Candidate SuperSchedules... 1 8 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 128 = 0.341704 ms
+Testing Candidate SuperSchedules... 4 32 4 i1 k1 i0 k0 j1 j0 1 0 0 1 i1 48 8 = 0.3209 ms
+Testing Candidate SuperSchedules... 16 8 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 0.358537 ms
+Testing Candidate SuperSchedules... 8 16 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 128 = 0.339313 ms
+Testing Candidate SuperSchedules... 16 32 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 0.532991 ms
+Testing Candidate SuperSchedules... 2 1 2 k1 k0 i1 i0 j1 j0 0 0 0 0 i1 48 2 = 1.60808 ms
+Testing Candidate SuperSchedules... 2 32 8 i1 i0 k1 j1 k0 j0 0 1 0 0 i1 48 4 = 0.434123 ms
+Testing Candidate SuperSchedules... 4 1 128 k1 i1 i0 k0 j1 j0 1 0 0 1 i1 48 2 = 1.67236 ms
+Testing Candidate SuperSchedules... 8 32 1 i1 k1 i0 k0 j1 j0 1 0 0 0 i1 48 8 = 0.383262 ms
+Testing Candidate SuperSchedules... 2 2 32 k1 k0 i1 j1 i0 j0 1 0 0 0 i1 48 1 = 1.49119 ms
+Testing Candidate SuperSchedules... 2 4 16 k1 k0 i1 j1 i0 j0 1 0 0 0 i1 48 1 = 1.66762 ms
+Testing Candidate SuperSchedules... 32 2 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 0.324998 ms
+Testing Candidate SuperSchedules... 1 4 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 16 = 0.289427 ms
+Testing Candidate SuperSchedules... 1 16 128 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 0.340392 ms
+Testing Candidate SuperSchedules... 8 1 1 i1 k1 k0 i0 j1 j0 0 0 0 0 i1 48 32 = 0.388171 ms
+Testing Candidate SuperSchedules... 4 1 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 0.447747 ms
+Testing Candidate SuperSchedules... 1 1 128 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 0.387183 ms
+Testing Candidate SuperSchedules... 32 4 1 i1 k1 k0 i0 j1 j0 1 1 0 1 i1 48 32 = 0.433245 ms
+Testing Candidate SuperSchedules... 4 2 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 0.603069 ms
+Testing Candidate SuperSchedules... 8 1 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 0.335731 ms
+Testing Candidate SuperSchedules... 8 4 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 32 = 0.366049 ms
+Testing Candidate SuperSchedules... 4 2 4 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 0.488022 ms
+Testing Candidate SuperSchedules... 1 1 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 128 = 0.280433 ms
+Testing Candidate SuperSchedules... 8 8 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 64 = 0.462722 ms
+Testing Candidate SuperSchedules... 32 8 128 i1 i0 k1 k0 j1 j0 1 1 0 0 i1 48 64 = 0.337307 ms
+Testing Candidate SuperSchedules... 2 8 128 i1 j1 k1 k0 i0 j0 1 1 0 0 i1 48 4 = 0.273403 ms
+Testing Candidate SuperSchedules... 1 2 2 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 0.559991 ms
+
+SuperSchedule found by WACO : 16 2 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2
+WACO : 0.213772 ms
+FixedCSR : 0.363732 ms
+

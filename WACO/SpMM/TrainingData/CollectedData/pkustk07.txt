@@ -1,0 +1,14 @@
+NUMROW : 16860 / NUMCOL : 16860 / NNZ : 2418804 
+Use 32 Threads
+Testing Candidate SuperSchedules... 16 2 32 k1 k0 i1 j1 i0 j0 0 0 1 1 i1 48 128 = 4072.07 ms
+Testing Candidate SuperSchedules... 8 16 128 i1 i0 j1 k1 k0 j0 1 0 0 1 i1 48 8 = 310.222 ms
+Testing Candidate SuperSchedules... 1 32 16 k1 k0 i1 i0 j1 j0 0 1 1 0 i1 48 64 = 4142.69 ms
+Testing Candidate SuperSchedules... 8 4 128 k1 i1 j1 i0 k0 j0 0 1 0 0 i1 48 1 = 1144.86 ms
+Testing Candidate SuperSchedules... 4 1 1 i1 k1 k0 i0 j1 j0 0 1 0 1 i1 48 2 = 114.774 ms
+Testing Candidate SuperSchedules... 32 16 128 i1 i0 k1 k0 j1 j0 1 0 0 0 i1 48 4 = 86.762 ms
+Testing Candidate SuperSchedules... 32 4 4 k1 i1 k0 i0 j1 j0 1 0 0 1 i1 48 4 = 1316.8 ms
+Testing Candidate SuperSchedules... 8 1 4 k1 i1 i0 k0 j1 j0 0 1 1 1 i1 48 64 = 4468.59 ms
+Testing Candidate SuperSchedules... 32 8 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 16 = 566.536 ms
+Testing Candidate SuperSchedules... 4 4 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 2 = 728.381 ms
+Testing Candidate SuperSchedules... 2 4 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 731.645 ms
+Testing Candidate SuperSchedules... 1 16 8 k1 i1 i0 k0 j1 j0 0 0 0 0 i1 48 256 = 602.591 ms

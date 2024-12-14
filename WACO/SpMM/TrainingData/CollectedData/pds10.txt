@@ -1,0 +1,47 @@
+NUMROW : 16558 / NUMCOL : 16558 / NNZ : 149658 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 8 4 k1 i1 k0 i0 j1 j0 0 1 1 1 i1 48 64 = 707.654 ms
+Testing Candidate SuperSchedules... 4 4 4 k1 k0 i1 i0 j1 j0 0 1 0 0 i1 48 4 = 3846.77 ms
+Testing Candidate SuperSchedules... 8 32 2 i1 k1 k0 i0 j1 j0 0 1 1 0 i1 48 8 = 138.775 ms
+Testing Candidate SuperSchedules... 8 8 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 351.927 ms
+Testing Candidate SuperSchedules... 16 16 4 i1 k1 i0 k0 j1 j0 0 1 0 0 i1 48 16 = 24.6537 ms
+Testing Candidate SuperSchedules... 2 4 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 30.351 ms
+Testing Candidate SuperSchedules... 32 32 4 k1 i1 k0 i0 j1 j0 1 1 1 0 i1 48 256 = 534.177 ms
+Testing Candidate SuperSchedules... 1 8 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 143.365 ms
+Testing Candidate SuperSchedules... 2 1 32 i1 i0 j1 k1 k0 j0 0 0 0 1 i1 48 4 = 7.47018 ms
+Testing Candidate SuperSchedules... 8 1 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 139.365 ms
+Testing Candidate SuperSchedules... 16 8 2 k1 k0 i1 i0 j1 j0 0 0 0 1 i1 48 128 = 3817.43 ms
+Testing Candidate SuperSchedules... 1 16 32 k1 k0 i1 i0 j1 j0 0 0 1 0 i1 48 256 = 3940.42 ms
+Testing Candidate SuperSchedules... 8 8 64 i1 k1 k0 i0 j1 j0 1 1 0 1 i1 48 64 = 58.5072 ms
+Testing Candidate SuperSchedules... 2 4 8 k1 i1 i0 k0 j1 j0 0 1 1 0 i1 48 8 = 981.472 ms
+Testing Candidate SuperSchedules... 16 4 8 k1 i1 k0 i0 j1 j0 0 0 0 1 i1 48 128 = 1010.62 ms
+Testing Candidate SuperSchedules... 4 1 8 i1 i0 j1 k1 k0 j0 0 1 0 1 i1 48 64 = 27.5987 ms
+Testing Candidate SuperSchedules... 16 8 2 k1 i1 i0 k0 j1 j0 1 0 0 1 i1 48 256 = 583.213 ms
+Testing Candidate SuperSchedules... 32 4 64 k1 k0 i1 j1 i0 j0 0 0 1 1 i1 48 2 = 4201.39 ms
+Testing Candidate SuperSchedules... 2 1 2 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 8 = 45.284 ms
+Testing Candidate SuperSchedules... 4 32 16 i1 k1 k0 i0 j1 j0 0 0 0 0 i1 48 64 = 24.276 ms
+Testing Candidate SuperSchedules... 32 2 1 i1 i0 k1 k0 j1 j0 0 1 0 1 i1 48 4 = 10.2153 ms
+Testing Candidate SuperSchedules... 2 16 64 k1 k0 i1 i0 j1 j0 0 0 1 1 i1 48 64 = 4217.32 ms
+Testing Candidate SuperSchedules... 8 4 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 45.5266 ms
+Testing Candidate SuperSchedules... 8 1 64 i1 i0 j1 k1 k0 j0 1 0 0 0 i1 48 64 = 6.62902 ms
+Testing Candidate SuperSchedules... 16 1 1 k1 i1 i0 k0 j1 j0 0 0 1 0 i1 48 256 = 4192.16 ms
+Testing Candidate SuperSchedules... 1 1 8 i1 k1 k0 i0 j1 j0 0 0 0 0 i1 48 128 = 23.7858 ms
+Testing Candidate SuperSchedules... 2 4 16 i1 k1 k0 j1 i0 j0 1 1 0 1 i1 48 256 = 128.717 ms
+Testing Candidate SuperSchedules... 1 2 2 i1 k1 k0 i0 j1 j0 1 0 0 0 i1 48 1 = 24.7522 ms
+Testing Candidate SuperSchedules... 32 32 8 i1 j1 k1 k0 i0 j0 0 1 0 0 i1 48 2 = 440.938 ms
+Testing Candidate SuperSchedules... 8 16 2 k1 i1 k0 i0 j1 j0 0 0 0 0 i1 48 128 = 912.089 ms
+Testing Candidate SuperSchedules... 2 2 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 16 = 75.8221 ms
+Testing Candidate SuperSchedules... 2 1 8 i1 j1 k1 k0 i0 j0 1 0 0 0 i1 48 16 = 50.3206 ms
+Testing Candidate SuperSchedules... 1 8 8 i1 k1 j1 k0 i0 j0 0 1 0 0 i1 48 128 = 25.8458 ms
+Testing Candidate SuperSchedules... 4 16 4 k1 i1 i0 k0 j1 j0 0 0 0 0 i1 48 8 = 250.454 ms
+Testing Candidate SuperSchedules... 2 4 4 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 116.864 ms
+Testing Candidate SuperSchedules... 1 32 128 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 1 = 85.3126 ms
+Testing Candidate SuperSchedules... 4 2 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 16 = 128.879 ms
+Testing Candidate SuperSchedules... 1 32 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 117.446 ms
+Testing Candidate SuperSchedules... 8 4 128 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 32 = 46.6509 ms
+Testing Candidate SuperSchedules... 16 1 8 i1 k1 j1 i0 k0 j0 0 0 0 1 i1 48 4 = 27.7243 ms
+Testing Candidate SuperSchedules... 1 8 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 32 = 175.105 ms
+Testing Candidate SuperSchedules... 1 4 4 k1 k0 i1 i0 j1 j0 0 0 1 0 i1 48 128 = 3670.52 ms
+Testing Candidate SuperSchedules... 1 8 64 i1 i0 j1 k1 k0 j0 1 0 0 0 i1 48 32 = 8.23233 ms
+Testing Candidate SuperSchedules... 4 2 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 64 = 114.879 ms
+DLSYM ERROR

@@ -1,0 +1,9 @@
+NUMROW : 5308 / NUMCOL : 5308 / NNZ : 19503 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 1 4 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 17.8476 ms
+Testing Candidate SuperSchedules... 16 8 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 8 = 12.3948 ms
+Testing Candidate SuperSchedules... 32 32 64 i1 k1 k0 j1 i0 j0 1 1 0 0 i1 48 64 = 11.2451 ms
+Testing Candidate SuperSchedules... 16 32 16 i1 j1 i0 k1 k0 j0 1 0 1 0 i1 48 256 = 35.6491 ms
+Testing Candidate SuperSchedules... 2 4 2 i1 k1 k0 i0 j1 j0 1 1 0 0 i1 48 4 = 5.78157 ms
+Testing Candidate SuperSchedules... 4 16 8 k1 i1 k0 j1 i0 j0 0 1 1 1 i1 48 32 = 116.767 ms
+Testing Candidate SuperSchedules... 32 1 4 i1 k1 i0 k0 j1 j0 1 0 1 0 i1 48 32 = 4.45309 ms

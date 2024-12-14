@@ -1,0 +1,11 @@
+NUMROW : 372 / NUMCOL : 486 / NNZ : 2232 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 4 32 i1 k1 i0 j1 k0 j0 1 0 1 1 i1 48 32 = 0.728803 ms
+Testing Candidate SuperSchedules... 32 2 16 k1 i1 j1 i0 k0 j0 0 1 1 1 i1 48 16 = 57.5277 ms
+Testing Candidate SuperSchedules... 1 16 32 k1 k0 i1 i0 j1 j0 0 1 0 0 i1 48 2 = 118.661 ms
+Testing Candidate SuperSchedules... 2 2 128 i1 j1 k1 i0 k0 j0 1 1 0 0 i1 48 2 = 0.404917 ms
+Testing Candidate SuperSchedules... 8 16 4 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 16.6226 ms
+Testing Candidate SuperSchedules... 16 4 64 i1 k1 j1 k0 i0 j0 0 0 0 0 i1 48 128 = 0.376555 ms
+Testing Candidate SuperSchedules... 1 2 2 i1 k1 k0 i0 j1 j0 0 1 0 1 i1 48 32 = 0.857747 ms
+Testing Candidate SuperSchedules... 16 1 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 1.26943 ms
+DLSYM ERROR

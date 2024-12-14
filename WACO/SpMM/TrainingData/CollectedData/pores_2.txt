@@ -1,0 +1,2 @@
+NUMROW : 1224 / NUMCOL : 1224 / NNZ : 9613 
+Use 32 Threads

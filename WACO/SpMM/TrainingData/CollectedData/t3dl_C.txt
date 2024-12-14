@@ -1,0 +1,4 @@
+NUMROW : 7 / NUMCOL : 20360 / NNZ : 7 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 1 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 128 = 0.288416 ms
+Testing Candidate SuperSchedules... 32 2 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 0.255029 ms

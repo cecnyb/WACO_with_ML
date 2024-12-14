@@ -1,0 +1,5 @@
+NUMROW : 90449 / NUMCOL : 3 / NNZ : 270447 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 32 1 i1 i0 k1 k0 j1 j0 0 0 0 1 i1 48 2 = 12.5413 ms
+Testing Candidate SuperSchedules... 32 1 64 i1 j1 k1 i0 k0 j0 1 0 1 0 i1 48 32 = 14.3915 ms
+Testing Candidate SuperSchedules... 1 8 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 9.5512 ms

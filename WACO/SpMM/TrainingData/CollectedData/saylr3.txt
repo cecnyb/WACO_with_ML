@@ -1,0 +1,2 @@
+NUMROW : 1000 / NUMCOL : 1000 / NNZ : 3750 
+Use 32 Threads

@@ -1,0 +1,2 @@
+NUMROW : 13935 / NUMCOL : 1 / NNZ : 13194 
+Use 32 Threads

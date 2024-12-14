@@ -1,0 +1,2 @@
+NUMROW : 346 / NUMCOL : 346 / NNZ : 3226 
+Use 32 Threads

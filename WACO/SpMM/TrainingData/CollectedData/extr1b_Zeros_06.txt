@@ -1,0 +1,2 @@
+NUMROW : 2836 / NUMCOL : 2836 / NNZ : 438 
+Use 32 Threads

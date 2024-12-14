@@ -1,0 +1,11 @@
+NUMROW : 2836 / NUMCOL : 2836 / NNZ : 175 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 1 4 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 0.810487 ms
+Testing Candidate SuperSchedules... 1 8 16 i1 k1 k0 i0 j1 j0 1 1 0 1 i1 48 8 = 0.469302 ms
+Testing Candidate SuperSchedules... 32 1 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 8 = 0.740646 ms
+Testing Candidate SuperSchedules... 8 4 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 128 = 0.403533 ms
+Testing Candidate SuperSchedules... 8 32 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 3.43514 ms
+Testing Candidate SuperSchedules... 1 4 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 32 = 0.348155 ms
+Testing Candidate SuperSchedules... 1 2 8 i1 j1 k1 i0 k0 j0 0 1 0 1 i1 48 64 = 0.523482 ms
+Testing Candidate SuperSchedules... 8 2 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 0.566389 ms
+DLSYM ERROR

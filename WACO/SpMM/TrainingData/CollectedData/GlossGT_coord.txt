@@ -1,0 +1,2 @@
+NUMROW : 72 / NUMCOL : 2 / NNZ : 144 
+Use 32 Threads

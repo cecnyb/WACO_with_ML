@@ -1,0 +1,2 @@
+NUMROW : 6330 / NUMCOL : 1 / NNZ : 30 
+Use 32 Threads

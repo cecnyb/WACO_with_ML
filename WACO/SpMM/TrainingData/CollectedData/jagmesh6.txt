@@ -1,0 +1,8 @@
+NUMROW : 1377 / NUMCOL : 1377 / NNZ : 8993 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 1 1 i1 k1 k0 i0 j1 j0 0 0 1 1 i1 48 64 = 1.56794 ms
+Testing Candidate SuperSchedules... 8 32 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 7.93848 ms
+Testing Candidate SuperSchedules... 1 8 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 5.84656 ms
+Testing Candidate SuperSchedules... 4 4 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 0.353012 ms
+Testing Candidate SuperSchedules... 16 1 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 10.0781 ms
+Testing Candidate SuperSchedules... 32 8 64 i1 k1 i0 k0 j1 j0 1 1 0 1 i1 48 2 = 5.66745 ms

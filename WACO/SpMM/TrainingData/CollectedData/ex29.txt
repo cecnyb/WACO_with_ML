@@ -1,0 +1,2 @@
+NUMROW : 2870 / NUMCOL : 2870 / NNZ : 23754 
+Use 32 Threads

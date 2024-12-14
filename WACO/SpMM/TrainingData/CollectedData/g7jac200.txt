@@ -1,0 +1,9 @@
+NUMROW : 59310 / NUMCOL : 59310 / NNZ : 837936 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 8 4 i1 k1 i0 k0 j1 j0 1 0 0 0 i1 48 64 = 148.197 ms
+Testing Candidate SuperSchedules... 2 1 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 64 = 56.036 ms
+Testing Candidate SuperSchedules... 2 2 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 32 = 342.083 ms
+Testing Candidate SuperSchedules... 32 4 128 i1 j1 i0 k1 k0 j0 0 1 0 0 i1 48 2 = 53.6309 ms
+Testing Candidate SuperSchedules... 16 32 8 i1 k1 j1 i0 k0 j0 0 0 1 0 i1 48 2 = 261.856 ms
+Testing Candidate SuperSchedules... 1 4 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 2 = 124.302 ms
+Testing Candidate SuperSchedules... 2 2 8 i1 k1 i0 k0 j1 j0 0 1 0 0 i1 48 1 = 162.838 ms

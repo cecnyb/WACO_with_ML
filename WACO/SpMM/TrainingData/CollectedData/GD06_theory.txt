@@ -1,0 +1,8 @@
+NUMROW : 101 / NUMCOL : 101 / NNZ : 380 
+Use 32 Threads
+Testing Candidate SuperSchedules... 16 2 4 i1 i0 k1 k0 j1 j0 1 1 0 1 i1 48 128 = 0.338835 ms
+Testing Candidate SuperSchedules... 32 8 32 k1 i1 i0 j1 k0 j0 0 1 1 0 i1 48 8 = 3.17639 ms
+Testing Candidate SuperSchedules... 8 2 64 i1 i0 k1 k0 j1 j0 0 0 1 1 i1 48 16 = 0.326382 ms
+Testing Candidate SuperSchedules... 4 16 2 i1 k1 k0 i0 j1 j0 0 1 1 1 i1 48 64 = 2.48568 ms
+Testing Candidate SuperSchedules... 8 8 32 i1 i0 k1 k0 j1 j0 0 1 1 1 i1 48 4 = 0.609088 ms
+Testing Candidate SuperSchedules... 8 16 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 0.668537 ms

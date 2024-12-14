@@ -1,0 +1,33 @@
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1035498 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1049180 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1057866 Segmentation fault      (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1068314 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1088060 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1100612 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1122315 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1131132 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1137456 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1172924 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1186801 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+/var/spool/slurmd/job1062017/slurm_script: line 61: 1197851 Killed                  $CODE_GENERATOR $csr_path $config_path > "$output_path"
+slurmstepd: error: Detected 1 oom_kill event in StepId=1062017.batch. Some of the step tasks have been OOM Killed.

@@ -1,0 +1,10 @@
+NUMROW : 445315 / NUMCOL : 445315 / NNZ : 7479343 
+Use 32 Threads
+Testing Candidate SuperSchedules... 16 2 2 i1 k1 k0 i0 j1 j0 0 1 0 1 i1 48 1 = 17864.5 ms
+Testing Candidate SuperSchedules... 4 2 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 4945.88 ms
+Testing Candidate SuperSchedules... 16 1 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 8 = 0.278508 ms
+Testing Candidate SuperSchedules... 32 4 2 k1 i1 k0 i0 j1 j0 0 0 0 0 i1 48 8 = 26202.6 ms
+Testing Candidate SuperSchedules... 4 8 1 i1 k1 i0 k0 j1 j0 1 0 0 1 i1 48 16 = 1756.3 ms
+Testing Candidate SuperSchedules... 4 16 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 32 = 22838.1 ms
+Testing Candidate SuperSchedules... 4 4 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 2 = 7382.67 ms
+Testing Candidate SuperSchedules... 1 2 32 i1 j1 k1 i0 k0 j0 1 0 0 1 i1 48 16 = 907.617 ms

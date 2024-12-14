@@ -1,0 +1,8 @@
+NUMROW : 86916 / NUMCOL : 86916 / NNZ : 605045 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 2 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 366.754 ms
+Testing Candidate SuperSchedules... 8 2 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 668.304 ms
+Testing Candidate SuperSchedules... 1 32 8 k1 i1 k0 j1 i0 j0 0 0 1 1 i1 48 2 = 2024.23 ms
+Testing Candidate SuperSchedules... 32 4 32 k1 k0 i1 j1 i0 j0 0 1 1 0 i1 48 16 = 22159.6 ms
+Testing Candidate SuperSchedules... 16 1 64 i1 j1 k1 i0 k0 j0 0 0 0 0 i1 48 16 = 56.8872 ms
+Testing Candidate SuperSchedules... 4 4 1 k1 i1 k0 i0 j1 j0 0 1 0 0 i1 48 1 = 5833.56 ms

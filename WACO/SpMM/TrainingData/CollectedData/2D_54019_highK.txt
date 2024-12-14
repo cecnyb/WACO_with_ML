@@ -1,0 +1,14 @@
+NUMROW : 54019 / NUMCOL : 54019 / NNZ : 996414 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 32 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 314.863 ms
+Testing Candidate SuperSchedules... 32 8 64 k1 k0 i1 j1 i0 j0 0 1 1 1 i1 48 32 = 13736.7 ms
+Testing Candidate SuperSchedules... 4 2 16 k1 i1 i0 j1 k0 j0 0 0 1 0 i1 48 16 = 6444.66 ms
+Testing Candidate SuperSchedules... 32 2 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 294.15 ms
+Testing Candidate SuperSchedules... 32 8 32 k1 i1 j1 k0 i0 j0 1 1 1 0 i1 48 64 = 1848.81 ms
+Testing Candidate SuperSchedules... 4 16 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 702.216 ms
+Testing Candidate SuperSchedules... 16 16 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 297.481 ms
+Testing Candidate SuperSchedules... 16 4 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 169.658 ms
+Testing Candidate SuperSchedules... 2 8 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 293.815 ms
+Testing Candidate SuperSchedules... 32 1 1 k1 i1 i0 k0 j1 j0 0 1 0 0 i1 48 8 = 14622.2 ms
+Testing Candidate SuperSchedules... 32 4 4 i1 k1 i0 k0 j1 j0 0 0 0 0 i1 48 32 = 169.616 ms
+DLSYM ERROR

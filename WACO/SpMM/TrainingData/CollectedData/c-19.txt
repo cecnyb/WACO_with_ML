@@ -1,0 +1,7 @@
+NUMROW : 2327 / NUMCOL : 2327 / NNZ : 21817 
+Use 32 Threads
+Testing Candidate SuperSchedules... 1 1 64 i1 k1 i0 k0 j1 j0 0 1 0 1 i1 48 8 = 1.09762 ms
+Testing Candidate SuperSchedules... 4 8 2 k1 i1 i0 k0 j1 j0 0 1 0 1 i1 48 1 = 0.526549 ms
+Testing Candidate SuperSchedules... 1 2 8 i1 i0 j1 k1 k0 j0 0 1 0 0 i1 48 256 = 6.43617 ms
+Testing Candidate SuperSchedules... 2 8 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 19.7104 ms
+DLSYM ERROR

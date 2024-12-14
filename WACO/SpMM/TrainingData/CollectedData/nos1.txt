@@ -1,0 +1,2 @@
+NUMROW : 237 / NUMCOL : 237 / NNZ : 1017 
+Use 32 Threads

@@ -1,0 +1,9 @@
+NUMROW : 2529 / NUMCOL : 86 / NNZ : 297 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 2 128 k1 i1 k0 j1 i0 j0 0 1 1 1 i1 48 256 = 11.0112 ms
+Testing Candidate SuperSchedules... 32 16 128 k1 i1 j1 i0 k0 j0 1 0 1 0 i1 48 4 = 1.49396 ms
+Testing Candidate SuperSchedules... 8 2 128 k1 k0 i1 i0 j1 j0 1 1 0 0 i1 48 256 = 22.479 ms
+Testing Candidate SuperSchedules... 4 8 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 16 = 0.548894 ms
+Testing Candidate SuperSchedules... 2 8 128 i1 j1 i0 k1 k0 j0 0 0 1 0 i1 48 2 = 0.275029 ms
+Testing Candidate SuperSchedules... 16 8 64 i1 i0 j1 k1 k0 j0 0 1 0 0 i1 48 128 = 0.30075 ms
+Testing Candidate SuperSchedules... 32 4 4 i1 i0 k1 k0 j1 j0 1 0 0 0 i1 48 256 = 0.308016 ms

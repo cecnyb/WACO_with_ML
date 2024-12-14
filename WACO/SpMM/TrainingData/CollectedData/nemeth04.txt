@@ -1,0 +1,9 @@
+NUMROW : 9506 / NUMCOL : 9506 / NNZ : 394808 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 8 1 k1 i1 i0 k0 j1 j0 0 1 0 0 i1 48 256 = 303.77 ms
+Testing Candidate SuperSchedules... 4 8 128 i1 j1 k1 k0 i0 j0 1 0 1 0 i1 48 1 = 25.0345 ms
+Testing Candidate SuperSchedules... 4 8 1 i1 i0 k1 k0 j1 j0 1 0 0 0 i1 48 8 = 14.2076 ms
+Testing Candidate SuperSchedules... 2 1 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 75.5172 ms
+Testing Candidate SuperSchedules... 4 16 1 i1 i0 k1 k0 j1 j0 0 1 0 0 i1 48 16 = 17.2378 ms
+Testing Candidate SuperSchedules... 32 2 4 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 144.758 ms
+Testing Candidate SuperSchedules... 8 32 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 131.095 ms

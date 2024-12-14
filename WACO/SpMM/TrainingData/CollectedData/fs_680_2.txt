@@ -1,0 +1,2 @@
+NUMROW : 680 / NUMCOL : 680 / NNZ : 2646 
+Use 32 Threads

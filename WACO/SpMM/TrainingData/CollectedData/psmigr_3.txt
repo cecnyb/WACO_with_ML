@@ -1,0 +1,2 @@
+NUMROW : 3140 / NUMCOL : 3140 / NNZ : 543162 
+Use 32 Threads

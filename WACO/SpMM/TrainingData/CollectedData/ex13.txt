@@ -1,0 +1,8 @@
+NUMROW : 2568 / NUMCOL : 2568 / NNZ : 75628 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 4 16 i1 k1 j1 k0 i0 j0 1 0 1 0 i1 48 16 = 17.5286 ms
+Testing Candidate SuperSchedules... 4 1 2 i1 k1 k0 i0 j1 j0 1 1 0 0 i1 48 4 = 17.6748 ms
+Testing Candidate SuperSchedules... 4 8 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 30.4598 ms
+Testing Candidate SuperSchedules... 1 8 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 3.08167 ms
+Testing Candidate SuperSchedules... 32 16 8 k1 i1 k0 i0 j1 j0 1 0 0 0 i1 48 4 = 45.6784 ms
+Testing Candidate SuperSchedules... 1 4 64 i1 k1 k0 i0 j1 j0 1 1 0 1 i1 48 8 = 3.83362 ms

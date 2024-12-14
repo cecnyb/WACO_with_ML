@@ -1,0 +1,10 @@
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1058263/slurm_script: line 59: 258586 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1058263/slurm_script: line 59: 261761 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+terminate called after throwing an instance of 'std::invalid_argument'
+  what():  Pack Too Large
+/var/spool/slurmd/job1058263/slurm_script: line 59: 283065 Aborted                 (core dumped) $CODE_GENERATOR $csr_path $config_path > "$output_path"
+slurmstepd: error: *** JOB 1058263 ON a05 CANCELLED AT 2024-11-26T19:33:00 DUE TO TIME LIMIT ***

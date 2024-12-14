@@ -1,0 +1,26 @@
+NUMROW : 680 / NUMCOL : 680 / NNZ : 2646 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 1 1 i1 k1 k0 i0 j1 j0 0 0 1 0 i1 48 32 = 0.577574 ms
+Testing Candidate SuperSchedules... 16 8 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 1.43191 ms
+Testing Candidate SuperSchedules... 32 1 4 k1 i1 k0 i0 j1 j0 1 0 1 1 i1 48 64 = 160.148 ms
+Testing Candidate SuperSchedules... 16 4 8 k1 i1 k0 i0 j1 j0 1 0 1 1 i1 48 256 = 38.7138 ms
+Testing Candidate SuperSchedules... 16 16 4 i1 k1 i0 k0 j1 j0 1 1 1 0 i1 48 256 = 0.722758 ms
+Testing Candidate SuperSchedules... 32 2 2 k1 i1 i0 k0 j1 j0 0 0 1 1 i1 48 16 = 77.4694 ms
+Testing Candidate SuperSchedules... 32 16 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 29.0333 ms
+Testing Candidate SuperSchedules... 2 1 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 0.444763 ms
+Testing Candidate SuperSchedules... 16 32 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 32 = 4.47389 ms
+Testing Candidate SuperSchedules... 16 32 16 i1 j1 k1 i0 k0 j0 0 0 1 0 i1 48 1 = 1.02344 ms
+Testing Candidate SuperSchedules... 32 8 128 k1 k0 i1 i0 j1 j0 1 1 1 1 i1 48 16 = 176.652 ms
+Testing Candidate SuperSchedules... 8 8 1 i1 k1 k0 i0 j1 j0 0 0 1 1 i1 48 8 = 0.459259 ms
+Testing Candidate SuperSchedules... 1 2 4 k1 i1 k0 i0 j1 j0 0 1 0 1 i1 48 2 = 77.8018 ms
+Testing Candidate SuperSchedules... 2 8 2 k1 i1 k0 i0 j1 j0 0 1 1 0 i1 48 8 = 19.709 ms
+Testing Candidate SuperSchedules... 1 1 8 i1 k1 j1 i0 k0 j0 1 1 1 1 i1 48 256 = 71.6322 ms
+Testing Candidate SuperSchedules... 2 16 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 1 = 5.13099 ms
+Testing Candidate SuperSchedules... 2 8 16 k1 i1 k0 j1 i0 j0 1 0 0 0 i1 48 2 = 19.7252 ms
+Testing Candidate SuperSchedules... 1 1 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 2 = 0.431261 ms
+Testing Candidate SuperSchedules... 32 4 128 i1 k1 j1 k0 i0 j0 1 0 0 1 i1 48 64 = 0.399647 ms
+Testing Candidate SuperSchedules... 8 1 2 k1 i1 i0 k0 j1 j0 1 1 1 0 i1 48 256 = 204.132 ms
+Testing Candidate SuperSchedules... 1 4 64 i1 k1 k0 i0 j1 j0 0 1 0 1 i1 48 64 = 0.519913 ms
+Testing Candidate SuperSchedules... 4 4 4 i1 k1 i0 k0 j1 j0 1 1 1 1 i1 48 32 = 73.1647 ms
+DLOPEN - ./taco_kernel.so: file too short
+DLSYM ERROR

@@ -1,0 +1,5 @@
+NUMROW : 7337 / NUMCOL : 7337 / NNZ : 156508 
+Use 32 Threads
+Testing Candidate SuperSchedules... 1 32 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 34.6975 ms
+Testing Candidate SuperSchedules... 2 8 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 73.8263 ms
+Testing Candidate SuperSchedules... 1 2 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 5.27181 ms

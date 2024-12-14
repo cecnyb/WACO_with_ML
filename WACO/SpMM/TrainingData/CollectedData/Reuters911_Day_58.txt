@@ -1,0 +1,6 @@
+NUMROW : 13332 / NUMCOL : 13332 / NNZ : 4362 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 1 4 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 3.1982 ms
+Testing Candidate SuperSchedules... 4 1 16 i1 i0 k1 k0 j1 j0 0 1 0 1 i1 48 128 = 1.0107 ms
+Testing Candidate SuperSchedules... 8 16 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 2 = 229.393 ms
+DLSYM ERROR

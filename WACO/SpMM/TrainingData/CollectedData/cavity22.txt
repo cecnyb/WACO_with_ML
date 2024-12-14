@@ -1,0 +1,6 @@
+NUMROW : 4562 / NUMCOL : 4562 / NNZ : 138187 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 32 64 k1 i1 i0 j1 k0 j0 0 0 1 0 i1 48 256 = 40.2111 ms
+Testing Candidate SuperSchedules... 1 4 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 16 = 1.39322 ms
+DLOPEN - ./taco_kernel.so: file too short
+DLSYM ERROR

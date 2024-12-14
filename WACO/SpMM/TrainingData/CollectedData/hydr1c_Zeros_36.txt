@@ -1,0 +1,2 @@
+NUMROW : 5308 / NUMCOL : 5308 / NNZ : 389 
+Use 32 Threads

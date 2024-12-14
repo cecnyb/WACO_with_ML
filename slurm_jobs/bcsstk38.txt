@@ -1,0 +1,7 @@
+NUMROW : 8032 / NUMCOL : 8032 / NNZ : 355460 
+Use 32 Threads
+
+SuperSchedule found by WACO : 
+WACO : 1e+09 ms
+FixedCSR : 6.78687 ms
+

@@ -1,0 +1,11 @@
+NUMROW : 32460 / NUMCOL : 32460 / NNZ : 328036 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 8 8 i1 i0 k1 k0 j1 j0 1 0 0 0 i1 48 128 = 58.1814 ms
+Testing Candidate SuperSchedules... 8 32 128 i1 k1 i0 k0 j1 j0 1 0 1 0 i1 48 8 = 23.6522 ms
+Testing Candidate SuperSchedules... 4 16 1 i1 k1 i0 k0 j1 j0 1 1 0 0 i1 48 64 = 22.7419 ms
+Testing Candidate SuperSchedules... 4 32 128 i1 k1 j1 i0 k0 j0 1 0 0 1 i1 48 128 = 267.373 ms
+Testing Candidate SuperSchedules... 16 4 2 i1 k1 i0 k0 j1 j0 0 0 0 0 i1 48 8 = 58.9653 ms
+Testing Candidate SuperSchedules... 8 4 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 57.3036 ms
+Testing Candidate SuperSchedules... 1 32 64 k1 k0 i1 i0 j1 j0 0 0 0 0 i1 48 8 = 7826.26 ms
+Testing Candidate SuperSchedules... 8 16 1 i1 k1 i0 k0 j1 j0 0 0 0 0 i1 48 16 = 20.7923 ms
+Testing Candidate SuperSchedules... 4 2 1 i1 k1 i0 k0 j1 j0 1 1 0 0 i1 48 64 = 23.1501 ms

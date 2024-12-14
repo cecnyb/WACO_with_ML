@@ -1,0 +1,2 @@
+NUMROW : 17361 / NUMCOL : 17361 / NNZ : 1021159 
+Use 32 Threads

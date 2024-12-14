@@ -1,0 +1,4 @@
+NUMROW : 1083 / NUMCOL : 1083 / NNZ : 18437 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 2 1 i1 k1 i0 k0 j1 j0 1 0 0 1 i1 48 64 = 1.08856 ms
+DLSYM ERROR

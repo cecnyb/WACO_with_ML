@@ -1,0 +1,5 @@
+NUMROW : 141347 / NUMCOL : 141347 / NNZ : 7339667 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 32 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 1276.14 ms
+Testing Candidate SuperSchedules... 1 16 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 2858.67 ms
+Testing Candidate SuperSchedules... 4 4 64 i1 i0 k1 j1 k0 j0 0 1 0 1 i1 48 256 = 376.066 ms

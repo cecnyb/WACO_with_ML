@@ -1,0 +1,6 @@
+NUMROW : 4562 / NUMCOL : 4562 / NNZ : 138187 
+Use 32 Threads
+Testing Candidate SuperSchedules... 1 32 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 75.0556 ms
+Testing Candidate SuperSchedules... 4 8 128 k1 k0 i1 i0 j1 j0 0 1 0 1 i1 48 8 = 1134.31 ms
+Testing Candidate SuperSchedules... 2 4 8 i1 j1 k1 k0 i0 j0 1 0 0 0 i1 48 4 = 44.3303 ms
+Testing Candidate SuperSchedules... 1 16 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 8 = 60.4266 ms

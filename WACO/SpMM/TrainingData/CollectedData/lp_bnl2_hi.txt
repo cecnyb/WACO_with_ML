@@ -1,0 +1,3 @@
+NUMROW : 4486 / NUMCOL : 1 / NNZ : 4486 
+Use 32 Threads
+DLSYM ERROR

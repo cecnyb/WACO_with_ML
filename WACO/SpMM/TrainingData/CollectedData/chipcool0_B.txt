@@ -1,0 +1,2 @@
+NUMROW : 20082 / NUMCOL : 1 / NNZ : 246 
+Use 32 Threads

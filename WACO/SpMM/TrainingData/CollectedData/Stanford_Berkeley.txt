@@ -1,0 +1,8 @@
+NUMROW : 683446 / NUMCOL : 683446 / NNZ : 7583376 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 8 16 k1 i1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 23865 ms
+Testing Candidate SuperSchedules... 16 1 16 k1 i1 i0 j1 k0 j0 0 1 1 1 i1 48 2 = 172744 ms
+Testing Candidate SuperSchedules... 32 16 8 k1 k0 i1 j1 i0 j0 0 0 1 1 i1 48 1 = 170623 ms
+Testing Candidate SuperSchedules... 32 2 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 22687.8 ms
+Testing Candidate SuperSchedules... 2 1 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 2168.97 ms
+Testing Candidate SuperSchedules... 2 32 8 i1 k1 k0 i0 j1 j0 0 1 0 1 i1 48 128 = 12007.3 ms

@@ -1,0 +1,5 @@
+NUMROW : 5308 / NUMCOL : 5308 / NNZ : 389 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 2 2 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 8 = 0.919935 ms
+Testing Candidate SuperSchedules... 1 2 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 0.337974 ms
+Testing Candidate SuperSchedules... 1 4 16 k1 i1 j1 k0 i0 j0 0 1 1 0 i1 48 256 = 324.732 ms

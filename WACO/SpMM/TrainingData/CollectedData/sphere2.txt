@@ -1,0 +1,5 @@
+NUMROW : 66 / NUMCOL : 66 / NNZ : 450 
+Use 32 Threads
+Testing Candidate SuperSchedules... 16 32 32 i1 k1 i0 k0 j1 j0 1 0 0 0 i1 48 256 = 0.519819 ms
+Testing Candidate SuperSchedules... 8 2 32 i1 j1 k1 i0 k0 j0 0 1 0 0 i1 48 4 = 0.345894 ms
+DLSYM ERROR

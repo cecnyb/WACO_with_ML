@@ -1,0 +1,9 @@
+NUMROW : 5850 / NUMCOL : 5850 / NNZ : 45465 
+Use 32 Threads
+Testing Candidate SuperSchedules... 16 16 64 i1 i0 k1 j1 k0 j0 1 0 0 1 i1 48 128 = 16.7072 ms
+Testing Candidate SuperSchedules... 2 16 2 k1 i1 i0 k0 j1 j0 0 0 0 1 i1 48 128 = 146.789 ms
+Testing Candidate SuperSchedules... 4 8 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 64 = 16.2319 ms
+Testing Candidate SuperSchedules... 2 1 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 64 = 2.67809 ms
+Testing Candidate SuperSchedules... 16 2 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 18.4537 ms
+Testing Candidate SuperSchedules... 1 32 4 i1 k1 k0 i0 j1 j0 0 1 0 1 i1 48 2 = 124.96 ms
+Testing Candidate SuperSchedules... 8 2 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 11.2149 ms

@@ -1,0 +1,10 @@
+NUMROW : 534388 / NUMCOL : 534388 / NNZ : 1643420 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 16 8 k1 i1 k0 i0 j1 j0 0 1 1 1 i1 48 4 = 10173.4 ms
+Testing Candidate SuperSchedules... 4 4 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 1444.04 ms
+Testing Candidate SuperSchedules... 16 32 16 i1 j1 k1 k0 i0 j0 1 1 0 0 i1 48 8 = 3115.12 ms
+Testing Candidate SuperSchedules... 1 16 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 3418.34 ms
+Testing Candidate SuperSchedules... 32 16 128 k1 i1 i0 j1 k0 j0 0 0 1 1 i1 48 2 = 9000.03 ms
+Testing Candidate SuperSchedules... 16 2 1 k1 i1 k0 i0 j1 j0 0 1 1 0 i1 48 128 = 73394.9 ms
+Testing Candidate SuperSchedules... 16 1 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 3616.47 ms
+Testing Candidate SuperSchedules... 16 8 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 919.769 ms

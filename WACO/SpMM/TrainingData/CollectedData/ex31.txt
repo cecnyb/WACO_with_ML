@@ -1,0 +1,2 @@
+NUMROW : 3909 / NUMCOL : 3909 / NNZ : 115357 
+Use 32 Threads

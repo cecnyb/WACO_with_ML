@@ -1,0 +1,2 @@
+NUMROW : 656 / NUMCOL : 656 / NNZ : 3884 
+Use 32 Threads

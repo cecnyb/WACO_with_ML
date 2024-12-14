@@ -1,0 +1,2 @@
+/var/spool/slurmd/job1101148/slurm_script: line 10: 3116167 Killed                  python /home/s0/ml4sys02/project/Workload-Aware-Co-Optimization/WACO/SpMM/meta_train.py
+slurmstepd: error: Detected 1 oom_kill event in StepId=1101148.batch. Some of the step tasks have been OOM Killed.

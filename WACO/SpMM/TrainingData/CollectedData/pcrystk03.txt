@@ -1,0 +1,2 @@
+NUMROW : 24696 / NUMCOL : 24696 / NNZ : 1751178 
+Use 32 Threads

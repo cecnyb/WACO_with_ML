@@ -1,0 +1,5 @@
+NUMROW : 1357 / NUMCOL : 1357 / NNZ : 8997 
+Use 32 Threads
+Testing Candidate SuperSchedules... 1 4 64 k1 i1 i0 j1 k0 j0 1 1 0 0 i1 48 2 = 82.6269 ms
+Testing Candidate SuperSchedules... 32 32 32 i1 j1 i0 k1 k0 j0 1 1 1 0 i1 48 1 = 1.88266 ms
+Testing Candidate SuperSchedules... 4 2 16 i1 j1 k1 k0 i0 j0 0 1 0 0 i1 48 16 = 5.73225 ms

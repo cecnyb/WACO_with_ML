@@ -1,0 +1,2 @@
+NUMROW : 4562 / NUMCOL : 4562 / NNZ : 138187 
+Use 32 Threads

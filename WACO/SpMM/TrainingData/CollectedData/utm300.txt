@@ -1,0 +1,14 @@
+NUMROW : 300 / NUMCOL : 300 / NNZ : 3155 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 8 2 k1 k0 i1 i0 j1 j0 0 1 0 1 i1 48 32 = 69.9021 ms
+Testing Candidate SuperSchedules... 32 2 32 i1 k1 k0 i0 j1 j0 0 1 0 0 i1 48 2 = 1.05019 ms
+Testing Candidate SuperSchedules... 8 16 128 k1 i1 i0 k0 j1 j0 1 0 1 1 i1 48 2 = 4.6253 ms
+Testing Candidate SuperSchedules... 16 1 1 i1 i0 k1 k0 j1 j0 0 0 1 0 i1 48 256 = 3.65462 ms
+Testing Candidate SuperSchedules... 1 4 128 k1 k0 i1 i0 j1 j0 0 1 0 0 i1 48 1 = 2.48281 ms
+Testing Candidate SuperSchedules... 8 8 16 i1 k1 j1 i0 k0 j0 1 0 1 1 i1 48 128 = 2.35346 ms
+Testing Candidate SuperSchedules... 8 1 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 1.67089 ms
+Testing Candidate SuperSchedules... 2 8 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 2.3901 ms
+Testing Candidate SuperSchedules... 1 32 4 i1 k1 k0 i0 j1 j0 1 1 1 0 i1 48 256 = 0.719168 ms
+Testing Candidate SuperSchedules... 1 16 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 0.953156 ms
+Testing Candidate SuperSchedules... 16 2 128 i1 k1 i0 j1 k0 j0 0 1 1 1 i1 48 1 = 2.77181 ms
+Testing Candidate SuperSchedules... 16 4 64 i1 k1 i0 j1 k0 j0 0 0 0 0 i1 48 1 = 0.365058 ms

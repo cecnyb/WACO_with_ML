@@ -1,0 +1,3 @@
+NUMROW : 878 / NUMCOL : 878 / NNZ : 7448 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 16 32 k1 k0 i1 i0 j1 j0 0 0 1 1 i1 48 64 = 299.409 ms

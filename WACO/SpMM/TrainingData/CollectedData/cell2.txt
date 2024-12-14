@@ -1,0 +1,2 @@
+NUMROW : 7055 / NUMCOL : 7055 / NNZ : 34855 
+Use 32 Threads

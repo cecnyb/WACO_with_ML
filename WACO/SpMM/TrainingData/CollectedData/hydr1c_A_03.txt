@@ -1,0 +1,24 @@
+NUMROW : 5308 / NUMCOL : 5308 / NNZ : 22996 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 8 32 i1 k1 j1 k0 i0 j0 0 0 1 1 i1 48 64 = 18.453 ms
+Testing Candidate SuperSchedules... 8 8 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 52.5247 ms
+Testing Candidate SuperSchedules... 4 8 128 i1 k1 i0 k0 j1 j0 1 0 0 1 i1 48 32 = 4.02817 ms
+Testing Candidate SuperSchedules... 8 32 8 i1 k1 k0 j1 i0 j0 0 0 0 1 i1 48 64 = 4.66399 ms
+Testing Candidate SuperSchedules... 32 1 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 56.5864 ms
+Testing Candidate SuperSchedules... 1 16 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 7.37624 ms
+Testing Candidate SuperSchedules... 16 4 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 2 = 54.3873 ms
+Testing Candidate SuperSchedules... 8 2 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 32 = 27.0047 ms
+Testing Candidate SuperSchedules... 1 4 8 i1 j1 i0 k1 k0 j0 0 1 0 1 i1 48 2 = 12.4925 ms
+Testing Candidate SuperSchedules... 2 1 2 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 6.99261 ms
+Testing Candidate SuperSchedules... 32 2 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 32 = 14.9552 ms
+Testing Candidate SuperSchedules... 16 8 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 12.6091 ms
+Testing Candidate SuperSchedules... 4 16 16 i1 j1 k1 i0 k0 j0 1 0 0 0 i1 48 1 = 6.65802 ms
+Testing Candidate SuperSchedules... 16 1 32 k1 i1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 1223.03 ms
+Testing Candidate SuperSchedules... 32 4 128 i1 k1 i0 j1 k0 j0 1 0 1 1 i1 48 8 = 2.68226 ms
+Testing Candidate SuperSchedules... 8 16 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 76.2706 ms
+Testing Candidate SuperSchedules... 8 4 8 i1 k1 i0 k0 j1 j0 0 0 0 0 i1 48 128 = 4.07667 ms
+Testing Candidate SuperSchedules... 32 2 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 14.9129 ms
+Testing Candidate SuperSchedules... 2 8 16 i1 j1 k1 k0 i0 j0 0 1 0 1 i1 48 32 = 27.0446 ms
+Testing Candidate SuperSchedules... 1 4 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 2.74377 ms
+Testing Candidate SuperSchedules... 32 16 16 i1 i0 k1 k0 j1 j0 0 0 0 1 i1 48 16 = 34.45 ms
+Testing Candidate SuperSchedules... 32 16 1 i1 k1 k0 i0 j1 j0 0 1 0 0 i1 48 2 = 12.2018 ms

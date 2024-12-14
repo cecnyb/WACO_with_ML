@@ -1,0 +1,6 @@
+NUMROW : 4470 / NUMCOL : 1 / NNZ : 4470 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 8 32 i1 k1 j1 k0 i0 j0 0 1 1 1 i1 48 1 = 0.575898 ms
+Testing Candidate SuperSchedules... 32 32 64 i1 j1 k1 i0 k0 j0 0 0 0 0 i1 48 2 = 0.683049 ms
+Testing Candidate SuperSchedules... 1 16 16 k1 i1 j1 k0 i0 j0 0 1 0 1 i1 48 256 = 1.33152 ms
+Testing Candidate SuperSchedules... 8 32 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 0.296439 ms

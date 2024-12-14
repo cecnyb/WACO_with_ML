@@ -1,0 +1,4 @@
+/home/s0/ml4sys02/project/Workload-Aware-Co-Optimization/dataset/code_for_data/convert_to_binary.py:38: ComplexWarning: Casting complex values to real discards the imaginary part
+  matrix.data.astype(np.float64).tofile(f)
+/home/s0/ml4sys02/project/Workload-Aware-Co-Optimization/dataset/code_for_data/convert_to_binary.py:38: ComplexWarning: Casting complex values to real discards the imaginary part
+  matrix.data.astype(np.float64).tofile(f)

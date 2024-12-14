@@ -1,0 +1,7 @@
+NUMROW : 10922 / NUMCOL : 10922 / NNZ : 46983 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 8 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 28.205 ms
+Testing Candidate SuperSchedules... 8 2 64 i1 i0 j1 k1 k0 j0 0 0 0 0 i1 48 16 = 3.2893 ms
+Testing Candidate SuperSchedules... 2 2 128 k1 i1 i0 j1 k0 j0 0 0 1 1 i1 48 32 = 0.99755 ms
+Testing Candidate SuperSchedules... 1 2 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 14.2644 ms
+Testing Candidate SuperSchedules... 2 2 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 20.8356 ms

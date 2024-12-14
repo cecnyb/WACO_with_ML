@@ -1,0 +1,14 @@
+NUMROW : 13436 / NUMCOL : 13436 / NNZ : 94926 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 1 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 256 = 1.75812 ms
+Testing Candidate SuperSchedules... 1 32 32 i1 i0 k1 k0 j1 j0 1 0 0 1 i1 48 64 = 44.2127 ms
+Testing Candidate SuperSchedules... 2 8 128 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 1 = 0.692137 ms
+Testing Candidate SuperSchedules... 8 1 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 64 = 58.3269 ms
+Testing Candidate SuperSchedules... 4 16 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 64 = 159.812 ms
+Testing Candidate SuperSchedules... 4 1 8 k1 i1 k0 i0 j1 j0 0 0 1 1 i1 48 128 = 2971.17 ms
+Testing Candidate SuperSchedules... 8 2 128 k1 i1 j1 i0 k0 j0 0 0 1 1 i1 48 64 = 1732.16 ms
+Testing Candidate SuperSchedules... 2 2 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 62.659 ms
+Testing Candidate SuperSchedules... 8 16 16 i1 k1 k0 i0 j1 j0 1 0 1 0 i1 48 2 = 17.8879 ms
+Testing Candidate SuperSchedules... 1 8 4 k1 i1 k0 i0 j1 j0 0 0 0 0 i1 48 64 = 400.01 ms
+Testing Candidate SuperSchedules... 4 16 128 i1 k1 j1 k0 i0 j0 1 0 0 1 i1 48 64 = 6.18768 ms
+Testing Candidate SuperSchedules... 2 8 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 6.6e-05 ms

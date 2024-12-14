@@ -1,0 +1,2 @@
+NUMROW : 1 / NUMCOL : 1 / NNZ : 0 
+Use 32 Threads

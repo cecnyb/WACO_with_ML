@@ -1,0 +1,3 @@
+NUMROW : 71952 / NUMCOL : 2704 / NNZ : 1151232 
+Use 32 Threads
+Testing Candidate SuperSchedules... 16 2 16 i1 j1 k1 i0 k0 j0 0 1 0 0 i1 48 4 = 0.748914 ms

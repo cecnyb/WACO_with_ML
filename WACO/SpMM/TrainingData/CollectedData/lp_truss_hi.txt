@@ -1,0 +1,8 @@
+NUMROW : 8806 / NUMCOL : 1 / NNZ : 8806 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 2 16 i1 k1 k0 j1 i0 j0 0 1 0 0 i1 48 4 = 2.39604 ms
+Testing Candidate SuperSchedules... 4 8 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 2.35927 ms
+Testing Candidate SuperSchedules... 4 8 4 k1 i1 i0 k0 j1 j0 0 1 1 1 i1 48 32 = 2.30137 ms
+Testing Candidate SuperSchedules... 2 4 32 k1 i1 k0 j1 i0 j0 1 0 0 1 i1 48 256 = 0.942464 ms
+Testing Candidate SuperSchedules... 2 8 128 i1 k1 j1 k0 i0 j0 1 1 1 0 i1 48 2 = 0.82299 ms
+Testing Candidate SuperSchedules... 16 32 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 0.821332 ms

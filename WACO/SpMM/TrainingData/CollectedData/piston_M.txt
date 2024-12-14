@@ -1,0 +1,4 @@
+NUMROW : 2025 / NUMCOL : 2025 / NNZ : 3856 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 16 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 3.25807 ms
+Testing Candidate SuperSchedules... 4 4 2 i1 i0 k1 k0 j1 j0 0 1 1 0 i1 48 32 = 1.64708 ms

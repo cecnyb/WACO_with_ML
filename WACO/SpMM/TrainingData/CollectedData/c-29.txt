@@ -1,0 +1,11 @@
+NUMROW : 5033 / NUMCOL : 5033 / NNZ : 43731 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 16 1 i1 k1 k0 i0 j1 j0 0 1 1 0 i1 48 2 = 24.613 ms
+Testing Candidate SuperSchedules... 8 4 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 10.0123 ms
+Testing Candidate SuperSchedules... 8 32 8 i1 j1 k1 i0 k0 j0 0 0 0 0 i1 48 128 = 13.5874 ms
+Testing Candidate SuperSchedules... 8 1 8 k1 i1 i0 k0 j1 j0 0 1 0 0 i1 48 32 = 1140.67 ms
+Testing Candidate SuperSchedules... 4 4 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 24.5659 ms
+Testing Candidate SuperSchedules... 8 16 2 i1 k1 i0 k0 j1 j0 1 1 0 1 i1 48 1 = 111.498 ms
+Testing Candidate SuperSchedules... 2 16 1 k1 k0 i1 i0 j1 j0 0 1 0 0 i1 48 64 = 1229.2 ms
+Testing Candidate SuperSchedules... 1 8 64 k1 i1 j1 k0 i0 j0 0 0 0 1 i1 48 2 = 163.982 ms
+Testing Candidate SuperSchedules... 8 1 8 i1 i0 k1 j1 k0 j0 0 1 0 0 i1 48 8 = 7.31389 ms

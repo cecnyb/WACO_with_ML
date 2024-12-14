@@ -1,0 +1,12 @@
+NUMROW : 18289 / NUMCOL : 18289 / NNZ : 113435 
+Use 32 Threads
+Testing Candidate SuperSchedules... 1 2 8 i1 k1 i0 j1 k0 j0 0 1 0 1 i1 48 16 = 31.2846 ms
+Testing Candidate SuperSchedules... 4 8 16 k1 i1 i0 j1 k0 j0 0 0 0 1 i1 48 1 = 602.796 ms
+Testing Candidate SuperSchedules... 8 2 32 k1 i1 i0 k0 j1 j0 0 0 0 0 i1 48 128 = 2242.66 ms
+Testing Candidate SuperSchedules... 2 4 16 i1 k1 k0 i0 j1 j0 0 0 0 1 i1 48 8 = 20.3793 ms
+Testing Candidate SuperSchedules... 1 8 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 32 = 27.3192 ms
+Testing Candidate SuperSchedules... 1 32 128 k1 k0 i1 i0 j1 j0 0 1 0 1 i1 48 128 = 4793.27 ms
+Testing Candidate SuperSchedules... 32 4 64 k1 i1 j1 k0 i0 j0 0 0 1 0 i1 48 16 = 1205.47 ms
+Testing Candidate SuperSchedules... 16 32 4 i1 i0 k1 k0 j1 j0 0 0 0 1 i1 48 128 = 333.434 ms
+Testing Candidate SuperSchedules... 4 2 2 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 103.224 ms
+Testing Candidate SuperSchedules... 32 4 2 k1 k0 i1 i0 j1 j0 0 1 1 0 i1 48 128 = 4729.89 ms

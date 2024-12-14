@@ -1,0 +1,4 @@
+NUMROW : 9669 / NUMCOL : 9669 / NNZ : 67391 
+Use 32 Threads
+DLOPEN - ./taco_kernel.so: object file has no loadable segments
+DLSYM ERROR

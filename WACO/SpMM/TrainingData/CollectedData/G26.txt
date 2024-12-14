@@ -1,0 +1,12 @@
+NUMROW : 2000 / NUMCOL : 2000 / NNZ : 39980 
+Use 32 Threads
+Testing Candidate SuperSchedules... 1 2 16 i1 j1 k1 i0 k0 j0 0 1 0 1 i1 48 256 = 13.6818 ms
+Testing Candidate SuperSchedules... 32 2 4 i1 i0 k1 k0 j1 j0 1 0 0 1 i1 48 4 = 11.9769 ms
+Testing Candidate SuperSchedules... 32 16 1 k1 i1 k0 i0 j1 j0 0 0 1 1 i1 48 4 = 28.3305 ms
+Testing Candidate SuperSchedules... 4 2 32 i1 k1 k0 j1 i0 j0 0 0 0 0 i1 48 128 = 2.62186 ms
+Testing Candidate SuperSchedules... 2 16 1 k1 i1 i0 k0 j1 j0 1 1 0 0 i1 48 16 = 28.7076 ms
+Testing Candidate SuperSchedules... 16 32 2 k1 i1 i0 k0 j1 j0 0 0 1 0 i1 48 256 = 17.5789 ms
+Testing Candidate SuperSchedules... 16 32 1 k1 k0 i1 i0 j1 j0 1 0 1 1 i1 48 8 = 461.609 ms
+Testing Candidate SuperSchedules... 4 2 4 i1 k1 i0 k0 j1 j0 1 0 1 0 i1 48 2 = 6.91024 ms
+Testing Candidate SuperSchedules... 1 8 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 13.0803 ms
+Testing Candidate SuperSchedules... 1 4 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 21.2528 ms

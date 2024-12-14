@@ -1,0 +1,9 @@
+NUMROW : 1182 / NUMCOL : 1 / NNZ : 1021 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 8 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 64 = 0.733746 ms
+Testing Candidate SuperSchedules... 1 16 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 0.3968 ms
+Testing Candidate SuperSchedules... 32 8 2 i1 k1 k0 i0 j1 j0 0 0 0 1 i1 48 64 = 0.568882 ms
+Testing Candidate SuperSchedules... 16 16 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 0.653667 ms
+Testing Candidate SuperSchedules... 8 1 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 0.618763 ms
+Testing Candidate SuperSchedules... 32 1 8 k1 i1 k0 j1 i0 j0 0 0 1 0 i1 48 64 = 0.644273 ms
+DLSYM ERROR

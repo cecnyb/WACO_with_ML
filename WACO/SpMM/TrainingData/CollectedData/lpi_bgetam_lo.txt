@@ -1,0 +1,2 @@
+NUMROW : 816 / NUMCOL : 1 / NNZ : 72 
+Use 32 Threads

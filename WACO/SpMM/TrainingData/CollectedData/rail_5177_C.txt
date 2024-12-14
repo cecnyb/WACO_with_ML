@@ -1,0 +1,4 @@
+NUMROW : 6 / NUMCOL : 5177 / NNZ : 17 
+Use 32 Threads
+DLOPEN - ./taco_kernel.so: file too short
+DLSYM ERROR

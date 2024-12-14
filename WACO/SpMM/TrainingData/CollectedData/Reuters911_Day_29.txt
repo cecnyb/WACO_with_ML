@@ -1,0 +1,11 @@
+NUMROW : 13332 / NUMCOL : 13332 / NNZ : 5682 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 32 16 i1 k1 k0 j1 i0 j0 1 0 0 1 i1 48 128 = 1.58709 ms
+Testing Candidate SuperSchedules... 1 8 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 1.98048 ms
+Testing Candidate SuperSchedules... 16 32 64 k1 i1 i0 k0 j1 j0 0 0 0 1 i1 48 64 = 110.342 ms
+Testing Candidate SuperSchedules... 1 4 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 32 = 1.08629 ms
+Testing Candidate SuperSchedules... 1 4 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 32 = 1.36448 ms
+Testing Candidate SuperSchedules... 2 1 8 i1 j1 k1 k0 i0 j0 0 0 0 1 i1 48 128 = 2.29909 ms
+Testing Candidate SuperSchedules... 32 2 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 14.183 ms
+Testing Candidate SuperSchedules... 8 32 128 i1 k1 i0 k0 j1 j0 1 0 1 0 i1 48 1 = 0.428381 ms
+Testing Candidate SuperSchedules... 4 8 1 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 21.0059 ms

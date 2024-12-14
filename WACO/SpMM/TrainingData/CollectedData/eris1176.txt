@@ -1,0 +1,6 @@
+NUMROW : 1176 / NUMCOL : 1176 / NNZ : 18552 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 2 16 i1 k1 i0 j1 k0 j0 1 1 1 0 i1 48 1 = 4.42254 ms
+Testing Candidate SuperSchedules... 32 1 2 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 20.9341 ms
+Testing Candidate SuperSchedules... 8 2 2 k1 i1 k0 i0 j1 j0 0 0 0 0 i1 48 256 = 0.309333 ms
+Testing Candidate SuperSchedules... 16 2 8 i1 k1 j1 k0 i0 j0 1 1 1 0 i1 48 64 = 10.9182 ms

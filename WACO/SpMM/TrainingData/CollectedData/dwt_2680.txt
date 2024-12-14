@@ -1,0 +1,6 @@
+NUMROW : 2680 / NUMCOL : 2680 / NNZ : 25026 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 4 128 k1 i1 i0 k0 j1 j0 1 0 0 0 i1 48 256 = 178.744 ms
+Testing Candidate SuperSchedules... 16 32 16 i1 k1 j1 k0 i0 j0 1 0 1 0 i1 48 1 = 6.20882 ms
+Testing Candidate SuperSchedules... 2 8 128 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 1 = 3.85958 ms
+Testing Candidate SuperSchedules... 4 1 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 1 = 2.08266 ms

@@ -1,0 +1,4 @@
+NUMROW : 221 / NUMCOL : 221 / NNZ : 1629 
+Use 32 Threads
+Testing Candidate SuperSchedules... 1 1 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 0.392504 ms
+DLSYM ERROR

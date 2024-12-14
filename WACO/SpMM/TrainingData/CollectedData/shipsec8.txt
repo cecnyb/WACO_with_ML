@@ -1,0 +1,16 @@
+NUMROW : 114919 / NUMCOL : 114919 / NNZ : 6653399 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 2 64 i1 k1 i0 k0 j1 j0 0 0 0 1 i1 48 8 = 255.121 ms
+Testing Candidate SuperSchedules... 8 4 2 i1 i0 k1 k0 j1 j0 0 0 0 1 i1 48 32 = 1442.71 ms
+Testing Candidate SuperSchedules... 2 16 32 i1 k1 i0 j1 k0 j0 0 1 0 1 i1 48 1 = 809.15 ms
+Testing Candidate SuperSchedules... 32 4 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 5262.42 ms
+Testing Candidate SuperSchedules... 2 1 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 253.518 ms
+Testing Candidate SuperSchedules... 4 32 128 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 64 = 1079.15 ms
+Testing Candidate SuperSchedules... 8 4 32 k1 i1 j1 i0 k0 j0 0 1 1 1 i1 48 1 = 7151.13 ms
+Testing Candidate SuperSchedules... 2 4 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 336.463 ms
+Testing Candidate SuperSchedules... 1 16 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 3104.91 ms
+Testing Candidate SuperSchedules... 8 1 2 i1 k1 i0 k0 j1 j0 0 0 0 0 i1 48 1 = 1048.77 ms
+Testing Candidate SuperSchedules... 2 8 16 i1 i0 j1 k1 k0 j0 0 1 0 0 i1 48 4 = 1494.44 ms
+Testing Candidate SuperSchedules... 4 1 1 k1 i1 i0 k0 j1 j0 0 0 1 1 i1 48 256 = 29369.9 ms
+DLOPEN - ./taco_kernel.so: cannot open shared object file: No such file or directory
+DLSYM ERROR

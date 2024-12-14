@@ -1,0 +1,13 @@
+NUMROW : 9881 / NUMCOL : 1 / NNZ : 718 
+Use 32 Threads
+Testing Candidate SuperSchedules... 1 32 2 i1 i0 k1 k0 j1 j0 0 1 0 1 i1 48 64 = 0.335471 ms
+Testing Candidate SuperSchedules... 32 16 128 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 16 = 0.431062 ms
+Testing Candidate SuperSchedules... 16 16 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 0.466163 ms
+Testing Candidate SuperSchedules... 8 4 2 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 0.404161 ms
+Testing Candidate SuperSchedules... 16 4 8 i1 j1 k1 k0 i0 j0 1 1 1 1 i1 48 256 = 1.92494 ms
+Testing Candidate SuperSchedules... 4 16 2 i1 k1 k0 i0 j1 j0 1 0 1 1 i1 48 16 = 0.470905 ms
+Testing Candidate SuperSchedules... 4 1 16 i1 j1 k1 k0 i0 j0 1 0 1 0 i1 48 4 = 0.490771 ms
+Testing Candidate SuperSchedules... 1 2 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 0.406262 ms
+Testing Candidate SuperSchedules... 32 8 1 k1 i1 k0 i0 j1 j0 1 0 1 1 i1 48 128 = 0.392349 ms
+Testing Candidate SuperSchedules... 16 32 32 k1 i1 k0 i0 j1 j0 1 1 0 0 i1 48 16 = 0.427224 ms
+Testing Candidate SuperSchedules... 2 4 2 i1 k1 i0 k0 j1 j0 0 0 1 0 i1 48 1 = 0.327303 ms

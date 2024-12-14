@@ -1,0 +1,5 @@
+NUMROW : 4257 / NUMCOL : 4257 / NNZ : 4257 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 8 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 1.65156 ms
+Testing Candidate SuperSchedules... 1 1 64 i1 i0 k1 k0 j1 j0 1 0 0 1 i1 48 256 = 0.59703 ms
+Testing Candidate SuperSchedules... 1 4 1 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 32 = 0.689585 ms

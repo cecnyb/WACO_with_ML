@@ -1,0 +1,2 @@
+NUMROW : 41374 / NUMCOL : 41374 / NNZ : 260202 
+Use 32 Threads

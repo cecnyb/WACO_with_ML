@@ -1,0 +1,2 @@
+NUMROW : 9506 / NUMCOL : 9506 / NNZ : 1506550 
+Use 32 Threads

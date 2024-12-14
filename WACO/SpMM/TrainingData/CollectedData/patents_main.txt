@@ -1,0 +1,4 @@
+NUMROW : 240547 / NUMCOL : 240547 / NNZ : 560943 
+Use 32 Threads
+Testing Candidate SuperSchedules... 8 1 64 i1 j1 k1 i0 k0 j0 0 1 0 1 i1 48 4 = 252.213 ms
+Testing Candidate SuperSchedules... 1 8 16 i1 j1 k1 i0 k0 j0 0 0 0 1 i1 48 64 = 942.053 ms

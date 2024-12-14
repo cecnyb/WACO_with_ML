@@ -1,0 +1,24 @@
+NUMROW : 5308 / NUMCOL : 5308 / NNZ : 19510 
+Use 32 Threads
+Testing Candidate SuperSchedules... 16 2 32 i1 k1 j1 k0 i0 j0 1 1 1 0 i1 48 4 = 7.74265 ms
+Testing Candidate SuperSchedules... 2 2 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 2 = 2.1849 ms
+Testing Candidate SuperSchedules... 4 16 8 k1 i1 j1 k0 i0 j0 0 1 1 0 i1 48 1 = 83.6605 ms
+Testing Candidate SuperSchedules... 4 32 128 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 15.2148 ms
+Testing Candidate SuperSchedules... 1 32 64 i1 k1 k0 i0 j1 j0 1 1 1 0 i1 48 1 = 1.78549 ms
+Testing Candidate SuperSchedules... 8 16 64 i1 k1 i0 k0 j1 j0 0 1 0 0 i1 48 1 = 1.17728 ms
+Testing Candidate SuperSchedules... 2 32 4 k1 i1 k0 i0 j1 j0 1 0 0 0 i1 48 16 = 41.5785 ms
+Testing Candidate SuperSchedules... 2 4 16 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 8 = 14.2013 ms
+Testing Candidate SuperSchedules... 2 16 16 i1 k1 j1 i0 k0 j0 0 1 0 0 i1 48 64 = 5.97524 ms
+Testing Candidate SuperSchedules... 16 8 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 77.921 ms
+Testing Candidate SuperSchedules... 1 16 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 256 = 32.8205 ms
+Testing Candidate SuperSchedules... 32 4 128 k1 i1 k0 i0 j1 j0 0 1 1 1 i1 48 64 = 346.452 ms
+Testing Candidate SuperSchedules... 4 16 2 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 71.0346 ms
+Testing Candidate SuperSchedules... 4 32 1 i1 i0 k1 k0 j1 j0 0 0 0 1 i1 48 64 = 3.00636 ms
+Testing Candidate SuperSchedules... 1 8 64 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 4 = 4.22761 ms
+Testing Candidate SuperSchedules... 8 4 32 i1 k1 j1 i0 k0 j0 1 0 1 1 i1 48 16 = 4.98154 ms
+Testing Candidate SuperSchedules... 4 4 2 i1 i0 k1 k0 j1 j0 1 1 0 1 i1 48 1 = 10.4508 ms
+Testing Candidate SuperSchedules... 32 4 64 k1 i1 j1 k0 i0 j0 0 1 1 1 i1 48 1 = 343.127 ms
+Testing Candidate SuperSchedules... 32 2 4 k1 i1 i0 k0 j1 j0 0 1 0 0 i1 48 2 = 622.658 ms
+Testing Candidate SuperSchedules... 4 16 32 k1 i1 k0 i0 j1 j0 0 0 1 1 i1 48 16 = 78.6964 ms
+DLOPEN - ./taco_kernel.so: cannot open shared object file: No such file or directory
+DLSYM ERROR

@@ -1,0 +1,2 @@
+NUMROW : 1059 / NUMCOL : 1059 / NNZ : 4919 
+Use 32 Threads

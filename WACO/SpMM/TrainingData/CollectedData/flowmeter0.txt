@@ -1,0 +1,2 @@
+NUMROW : 9669 / NUMCOL : 9669 / NNZ : 67391 
+Use 32 Threads

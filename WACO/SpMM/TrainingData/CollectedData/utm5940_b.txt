@@ -1,0 +1,16 @@
+NUMROW : 5940 / NUMCOL : 1 / NNZ : 5444 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 1 128 k1 i1 j1 k0 i0 j0 1 1 1 1 i1 48 64 = 0.528184 ms
+Testing Candidate SuperSchedules... 32 16 64 i1 j1 k1 k0 i0 j0 1 0 0 0 i1 48 128 = 0.544277 ms
+Testing Candidate SuperSchedules... 16 2 64 i1 i0 k1 k0 j1 j0 0 1 1 1 i1 48 128 = 0.514522 ms
+Testing Candidate SuperSchedules... 32 4 1 k1 i1 i0 k0 j1 j0 1 0 1 0 i1 48 16 = 0.535169 ms
+Testing Candidate SuperSchedules... 8 8 2 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 0.287076 ms
+Testing Candidate SuperSchedules... 1 1 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 1.13501 ms
+Testing Candidate SuperSchedules... 1 2 2 i1 k1 k0 i0 j1 j0 1 0 1 0 i1 48 1 = 1.19436 ms
+Testing Candidate SuperSchedules... 4 16 32 k1 i1 j1 k0 i0 j0 0 1 0 1 i1 48 64 = 0.529781 ms
+Testing Candidate SuperSchedules... 1 1 4 i1 i0 k1 k0 j1 j0 0 0 1 1 i1 48 32 = 1.12397 ms
+Testing Candidate SuperSchedules... 32 32 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 1.24911 ms
+Testing Candidate SuperSchedules... 4 4 8 k1 i1 j1 i0 k0 j0 0 1 0 0 i1 48 64 = 2.35689 ms
+Testing Candidate SuperSchedules... 4 8 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 32 = 1.29265 ms
+Testing Candidate SuperSchedules... 2 4 4 k1 i1 k0 i0 j1 j0 0 0 0 0 i1 48 8 = 1.15253 ms
+DLSYM ERROR

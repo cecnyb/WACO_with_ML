@@ -1,0 +1,6 @@
+NUMROW : 138 / NUMCOL : 138 / NNZ : 696 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 4 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 0.323685 ms
+Testing Candidate SuperSchedules... 2 8 64 i1 k1 k0 j1 i0 j0 0 1 0 0 i1 48 32 = 0.306685 ms
+Testing Candidate SuperSchedules... 16 8 16 i1 i0 k1 j1 k0 j0 1 1 0 0 i1 48 256 = 0.369805 ms
+Testing Candidate SuperSchedules... 8 32 32 i1 j1 k1 k0 i0 j0 1 1 0 1 i1 48 2 = 0.687352 ms

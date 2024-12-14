@@ -1,0 +1,11 @@
+/usr/bin/bash: line 27: chunk_3: No such file or directory
+/usr/bin/bash: line 27: chunk_9: No such file or directory
+/usr/bin/bash: line 27: chunk_7: No such file or directory
+/usr/bin/bash: line 27: chunk_4: No such file or directory
+/usr/bin/bash: line 27: chunk_5: No such file or directory
+/usr/bin/bash: line 27: chunk_6: No such file or directory
+/usr/bin/bash: line 27: chunk_1: No such file or directory
+/usr/bin/bash: line 27: chunk_2: No such file or directory
+/usr/bin/bash: line 27: chunk_0: No such file or directory
+/usr/bin/bash: line 27: chunk_8: No such file or directory
+srun: error: a05: tasks 0-9: Exited with exit code 1

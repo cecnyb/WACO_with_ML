@@ -1,0 +1,4 @@
+NUMROW : 1220 / NUMCOL : 1 / NNZ : 1200 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 2 8 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 128 = 0.432532 ms
+Testing Candidate SuperSchedules... 2 8 32 i1 j1 i0 k1 k0 j0 0 0 1 1 i1 48 8 = 0.360993 ms

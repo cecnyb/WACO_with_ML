@@ -1,0 +1,14 @@
+NUMROW : 13332 / NUMCOL : 13332 / NNZ : 9786 
+Use 32 Threads
+Testing Candidate SuperSchedules... 4 2 2 i1 k1 i0 k0 j1 j0 0 0 0 1 i1 48 128 = 3.56113 ms
+Testing Candidate SuperSchedules... 32 4 2 i1 i0 k1 k0 j1 j0 1 1 0 0 i1 48 2 = 1.99527 ms
+Testing Candidate SuperSchedules... 16 1 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 64 = 6.28108 ms
+Testing Candidate SuperSchedules... 32 1 32 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 1 = 12.7264 ms
+Testing Candidate SuperSchedules... 2 1 128 i1 j1 i0 k1 k0 j0 0 0 0 1 i1 48 256 = 0.812675 ms
+Testing Candidate SuperSchedules... 32 1 2 i1 i0 k1 k0 j1 j0 1 0 0 1 i1 48 256 = 1.93795 ms
+Testing Candidate SuperSchedules... 8 32 64 k1 i1 j1 k0 i0 j0 0 0 0 1 i1 48 32 = 101.15 ms
+Testing Candidate SuperSchedules... 16 16 8 k1 k0 i1 j1 i0 j0 0 1 0 0 i1 48 2 = 408.61 ms
+Testing Candidate SuperSchedules... 2 8 64 k1 i1 j1 k0 i0 j0 0 1 1 1 i1 48 1 = 431.49 ms
+Testing Candidate SuperSchedules... 8 32 128 i1 k1 k0 i0 j1 j0 0 0 0 1 i1 48 256 = 1.2989 ms
+DLOPEN - ./taco_kernel.so: file too short
+DLSYM ERROR

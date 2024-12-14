@@ -1,0 +1,2 @@
+NUMROW : 430 / NUMCOL : 430 / NNZ : 1544 
+Use 32 Threads

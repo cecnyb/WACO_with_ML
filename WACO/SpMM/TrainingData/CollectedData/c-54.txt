@@ -1,0 +1,8 @@
+NUMROW : 31793 / NUMCOL : 31793 / NNZ : 391693 
+Use 32 Threads
+Testing Candidate SuperSchedules... 2 32 64 i1 k1 k0 j1 i0 j0 0 1 0 1 i1 48 8 = 188.745 ms
+Testing Candidate SuperSchedules... 8 2 16 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 8 = 315.411 ms
+Testing Candidate SuperSchedules... 4 4 8 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 4 = 1.66514 ms
+Testing Candidate SuperSchedules... 8 1 4 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 16 = 272.251 ms
+Testing Candidate SuperSchedules... 16 1 32 i1 k1 j1 i0 k0 j0 0 1 0 1 i1 48 1 = 5.6526 ms
+Testing Candidate SuperSchedules... 1 8 32 i1 j1 k1 i0 k0 j0 0 1 0 1 i1 48 64 = 77.1198 ms

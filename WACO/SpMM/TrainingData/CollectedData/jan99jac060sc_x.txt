@@ -1,0 +1,8 @@
+NUMROW : 20614 / NUMCOL : 1 / NNZ : 19736 
+Use 32 Threads
+Testing Candidate SuperSchedules... 32 8 128 i1 k1 i0 j1 k0 j0 1 0 0 0 i1 48 8 = 1.78004 ms
+Testing Candidate SuperSchedules... 4 2 4 i1 k1 k0 i0 j1 j0 0 0 1 0 i1 48 4 = 4.91292 ms
+Testing Candidate SuperSchedules... 8 16 4 i1 k1 k0 i0 j1 j0 1 0 0 1 i1 48 4 = 4.85121 ms
+Testing Candidate SuperSchedules... 32 16 64 i1 k1 j1 i0 k0 j0 1 1 0 1 i1 48 8 = 5.24757 ms
+DLOPEN - ./taco_kernel.so: cannot open shared object file: No such file or directory
+DLSYM ERROR
